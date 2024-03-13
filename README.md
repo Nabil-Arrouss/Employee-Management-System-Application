@@ -4,6 +4,8 @@
 
 This Java program is an Employee Management System that allows users to perform various operations on a list of employees, such as adding, listing, deleting, and updating employee records.
 
+This program is an implementation of CRUD operations.
+
 ## Program Functionality
 
 1. **Add a New Employee:**
