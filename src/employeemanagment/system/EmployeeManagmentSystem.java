@@ -10,8 +10,8 @@ class Employee{
 
     Employee (int empno, String ename, int salary){
         this.empno = empno;
-        this.ename = ename;                           //  whenever we call this constructor we initialize
-        this.salary = salary;                         // these variable.
+        this.ename = ename;                           
+        this.salary = salary;                         
     }
 
     public int getEmpno(){
